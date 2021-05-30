@@ -7,6 +7,8 @@ This project is a Music Player.
 
 <!-- <img src="https://maggiepractice.s3.amazonaws.com/quotegenerator2.gif" width="600" /> -->
 
+Website Demo✨: https://105306005.github.io/Music_player/
+
 ## Technologies
 
 Project is created with:
